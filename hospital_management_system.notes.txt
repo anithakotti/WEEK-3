@@ -1,0 +1,9 @@
+I WANT TO BUILD A HOSPITAL MANAGEMENT SYSTEM
+The hospital name is Harashu Multispeciality Hospital
+CREATE A PATIENT REGISTRATION MODULE
+THE REGISTRATION SHOULD INCLUDE NAME, AGE, GENDER, PHONE NUMBER, EMAIL and address
+it should also include blood group and emergency contact
+validate the required field and show the error message
+after registration it will give registration successful message
+can you add header for my hospital logo
+create a login button
